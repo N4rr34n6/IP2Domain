@@ -1,0 +1,7 @@
+requests
+ipaddress
+beautifulsoup4
+concurrent-log-handler
+colorama
+backoff
+PySocks
